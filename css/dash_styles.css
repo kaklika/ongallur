@@ -4,6 +4,10 @@
   background-color: rgba(0, 0, 0, 0.699);
 }
 
+.header-section h2{
+  font-size: 1.6rem;
+}
+
 .table, .dataTable-table {
   --bs-table-bg: transparent;
   --bs-table-accent-bg: transparent;
