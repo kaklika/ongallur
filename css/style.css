@@ -321,6 +321,11 @@ header.sticky{
     background:var(--blue);
 }
 
+.doctor .box-container1 >img:hover{
+    height:50%;
+    width:50%;
+}
+
 .doctor .box-container .box h3{
     font-size: 2rem;
     color:var(--blue);
